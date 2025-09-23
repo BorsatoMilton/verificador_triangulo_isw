@@ -1,0 +1,1 @@
+# verificador_triangulo_isw
